@@ -15,5 +15,5 @@ app.use(express.json())
 app.use(router);
 
 //const PORT = process.env.PORT;
-console.log('server started on port:',5000);
-app.listen('5000');
+console.log('server started on port:',6000);
+app.listen('6000');
